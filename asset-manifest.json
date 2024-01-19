@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sip-script-todo-list-app/static/css/main.9c87e0aa.css",
+    "main.js": "/sip-script-todo-list-app/static/js/main.d6733971.js",
+    "static/js/787.007ce6cd.chunk.js": "/sip-script-todo-list-app/static/js/787.007ce6cd.chunk.js",
+    "index.html": "/sip-script-todo-list-app/index.html",
+    "main.9c87e0aa.css.map": "/sip-script-todo-list-app/static/css/main.9c87e0aa.css.map",
+    "main.d6733971.js.map": "/sip-script-todo-list-app/static/js/main.d6733971.js.map",
+    "787.007ce6cd.chunk.js.map": "/sip-script-todo-list-app/static/js/787.007ce6cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c87e0aa.css",
+    "static/js/main.d6733971.js"
+  ]
+}
